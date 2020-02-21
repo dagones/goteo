@@ -1,28 +1,28 @@
 ---
-home-channel-project: '%s proyectos'
-home-channels-header: Canales
+home-channel-project: '%s activos'
+home-channels-header: Categorias
 home-news-header: 'Lo que dicen de nosotros'
 home-patrons-header: Recomiendan
 home-promotes-header: Destacados
 home-stories-header: 'Casos de éxito'
 node-home-calls-header: Convocatorias
 home-menu-matchfunding: 'Matchfunding'
-home-menu-our-foundation: 'Nuestra Fundación'
+home-menu-our-foundation: 'Nuestra Compañía'
 home-search-keyword: 'Busca por palabra clave'
-home-search-location: 'Provincia, ciudad, CP'
-home-projects-title: 'Algunos de nuestros proyectos'
+home-search-location: 'Departamento, ciudad, CP'
+home-projects-title: 'Algunos de nuestros activos'
 home-projects-outdate: 'Urgentes'
 home-projects-team-favourites: 'Favoritos del Equipo'
 home-projects-near: 'Cerca de ti'
 home-projects-matchfunding: 'Matchfunding'
-home-advantages-donor-title: 'Ventajas como donante'
-home-advantages-owner-title: 'Ventajas como impulsor'
+home-advantages-donor-title: 'Ventajas como inversionista'
+home-advantages-owner-title: 'Ventajas como sponsor'
 home-adventages-savetheworld-title: 'Compromiso social'
 home-adventages-savetheworld-description: 'Forma parte de una comunidad comprometida con proyectos con impacto social'
 home-adventages-savetheworld-action: 'Quiero saber más'
-home-advantages-wallet-title: 'Monedero virtual'
-home-advantages-wallet-description: 'El monedero virtual te permite donar ahora y distribuir los aportes cuando y como prefieras. Ideal para organizaciones'
-home-advantages-wallet-action: 'Ir al monedero virtual'
+home-advantages-wallet-title: 'Billetera virtual'
+home-advantages-wallet-description: 'La Billetera virtual te permite donar ahora y distribuir los aportes cuando y como prefieras. Ideal para organizaciones'
+home-advantages-wallet-action: 'Ir a la billetera virtual'
 home-advantages-certificates-title: 'Certificados'
 home-advantages-certificates-description: 'Obtén un certificado para justificar tu donación ante Hacienda'
 home-advantages-certificates-action: 'Ir a Certificados'
