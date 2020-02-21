@@ -1,7 +1,7 @@
 ---
-home-channel-project: '%s proyeutos'
-home-channels-header: Canales
-home-news-header: 'Lo que dicen de nós'
+home-channel-project: '%s Projects'
+home-channels-header: Chain
+home-news-header: 'What they say about us'
 home-patrons-header: Aconseyen
 home-promotes-header: Destacaos
 home-stories-header: 'Casos d''ésitu'
@@ -12,12 +12,12 @@ home-search-location: 'Provincia, ciudá, CP'
 home-projects-title: 'Dalgunos proyeutos de nueso'
 home-projects-outdate: 'Urxentes'
 home-projects-team-favourites: 'Favoritos del Equipu'
-home-projects-near: 'Cierca de ti'
+home-projects-near: 'Near you'
 home-projects-matchfunding: 'Matchfunding'
 home-advantages-donor-title: 'Ventayes como donante'
 home-advantages-owner-title: 'Ventayes como impulsor'
 home-adventages-savetheworld-title: 'Compromisu social'
-home-adventages-savetheworld-action: 'Quiero saber más'
+home-adventages-savetheworld-action: 'Want to know more'
 home-advantages-wallet-title: 'Monederu virtual'
 home-advantages-wallet-description: 'Agora''l monederu virtual permítete donar y distribuyir los aportes cuándo y cómo prefieras. Ideal pa organizaciones'
 home-advantages-wallet-action: 'Dir al monederu virual'
